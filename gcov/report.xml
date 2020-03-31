@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests/>
+	<SuccessfulTests>
+		<Test id="1">
+			<Name>test/test_leds.c::test_Leds0ffAfterCreate</Name>
+		</Test>
+		<Test id="2">
+			<Name>test/test_leds.c::test_IndividualLedOn</Name>
+		</Test>
+		<Test id="3">
+			<Name>test/test_leds.c::test_IndividualLedOnOff</Name>
+		</Test>
+		<Test id="4">
+			<Name>test/test_leds.c::test_MultipleLeds</Name>
+		</Test>
+		<Test id="5">
+			<Name>test/test_leds.c::test_AllLedsOn</Name>
+		</Test>
+		<Test id="6">
+			<Name>test/test_leds.c::test_AllLedsOff</Name>
+		</Test>
+		<Test id="7">
+			<Name>test/test_leds.c::test_LedsState</Name>
+		</Test>
+	</SuccessfulTests>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>7</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>0</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>0</Failures>
+	</Statistics>
+</TestRun>
